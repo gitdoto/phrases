@@ -5,7 +5,6 @@ No significant overnight events.
 <BR>
 <BR>
 <BR>
-<BR>
 
 **REVIEW OF SYSTEMS:**
 

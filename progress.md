@@ -4,16 +4,21 @@ No significant overnight events.
 
 <BR>
 <BR>
-
+<BR>
 
 **REVIEW OF SYSTEMS:**
 
 Ten system ROS obtained negative unless otherwise noted above in HPI.
 
+<BR>
+<BR>
+
 **PHYSICAL EXAMINATION:**
 
 General: awake, answers questions appropriately in full sentences, lying in bed with head of bed elevated.
+<BR>
 Eyes: anicteric sclerae, noninjected conjunctivae
+<BR>
 ENT: Trachea midline, nose midline, no abnormal neck masses on gross inspection.
 Lungs: CTAB posteriorly, no crackles, no wheezes, no rhonchi. No cyanosis. Normal work of breathing. On 
 Cardiovascular: RRR, no murmurs, no rubs, no gallops.  JVD.  lower extremity edema. Warm feet.

@@ -43,7 +43,11 @@ Psychiatric: normal mood, appropriate affect, insight appears good
 
 Patient is a
 
-
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 **Diet:**  
 **DVT prophylaxis:**  

@@ -1,3 +1,4 @@
+.aecopd
 #Acute exacerbation of COPD
 #Acute on chronic hypoxemic respiratory failure
 * DuoNebs
@@ -6,6 +7,7 @@
 * Target SpO2 88-92%
 
 
+.aki
 #Acute kidney injury
 Leading differential is pre-renal azotemia. Differentials also include intrinsic kidney disease, post-renal obstruction.
 * IV fluids
@@ -16,6 +18,7 @@ Leading differential is pre-renal azotemia. Differentials also include intrinsic
 * Low threshold for bladder scan +/- ultrasound if repeat renal function does not improve over the next 12-24 hours.
 
 
+.ams
 #Acute unspecified encephalopathy
 * Check acetaminophen
 * Check salicylate
@@ -33,15 +36,18 @@ Leading differential is pre-renal azotemia. Differentials also include intrinsic
 * Repeat EKG
 
 
+.chads
 #CHA2DS2-VASc
 CHA2DS2-VASc score of
 
 
+.dm
 #Diabetes mellitus
 * Glucose AC HS checks
 * Sliding scale insulin
 
 
+.dka
 #Diabetic ketoacidosis
 Presentation and Labs consistent with DKA.
 * Admission to ICU for DKA protocol
@@ -51,13 +57,14 @@ Not well controlled. Takes ***
 * On insulin drip at this time, will transition to subcutaneous insulin when anion gap is closed. 
 
 
+.glf
 #GLF
 Patient denies any prodromes, preceding illnesses, presyncope, head strike, loss of consciousness, or anticoagulation use. 
  
 Patient denies any fever, chills, chest pain, chest tightness, chest pressure, palpitations, shortness of breath, peripheral swelling, new paresthesias or numbness, nausea, vomiting, abdominal pain, diarrhea, constipation, hematochezia, melena, headache, vision changes, syncope, presyncope, dizziness, lightheadedness, dysuria, gross hematuria, gross bleeding.
 
 
-#GIB
+.gib
 #Melena
 #Acute blood loss anemia
 Concern for upper GI bleed. 
@@ -69,11 +76,13 @@ Concern for upper GI bleed.
 * GI consult
 
 
+.nicotine
 #Nicotine dependence
 Smokes 
 * Nicotine patch
 
 
+.nstemi
 #NSTEMI
 * Received aspirin 324mg
 * Continue heparin drip
@@ -83,6 +92,7 @@ Smokes
 * Check HbA1c, lipid panel to evaluate coronary risk
 
 
+.overdose
 #Overdose
 * Telemetry
 * 1-on-1 sitter
@@ -91,6 +101,7 @@ Smokes
 * Repeat EKG
 
 
+.stroke
 #Stroke
 * CTA head & neck or carotid duplex ultrasound
 * Transthoracic echocardiography with agitated saline
@@ -102,6 +113,7 @@ Smokes
 * ST/OT/PT
 
 
+.stroketnk
 #Acute stroke s/p thrombolytics
 Received thrombolytics at *** hrs on ***
 * Admission to ICU with frequent neurochecks and BP checks
@@ -122,13 +134,14 @@ Received thrombolytics at *** hrs on ***
 *** Start 1L LR @ 100mL/hr due to NPO status
 
 
+.qtc
 #Prolonged QTc of *** ms on @TODAYDATE@
 * Cautious with QT prolonging agents
 
 
-======
+==========
 LIVER
-======
+==========
 
 
 #Decompensated liver cirrhosis

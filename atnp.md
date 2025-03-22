@@ -16,9 +16,9 @@ Eyes: anicteric sclerae, noninjected conjunctivae
 <BR>
 ENT: Trachea midline, nose midline, no abnormal neck masses on gross inspection.
 <BR>
-Lungs: CTAB posteriorly, no crackles, no wheezes, no rhonchi. No cyanosis. Normal work of breathing. **On** 
+Lungs: CTAB posteriorly, no crackles, no wheezes, no rhonchi. No cyanosis. Normal work of breathing.
 <BR>
-Cardiovascular: RRR, no murmurs, no rubs, no gallops.  **JVD.  lower extremity edema.** Warm feet.
+Cardiovascular: RRR, no murmurs, no rubs, no gallops. Warm feet.
 <BR>
 GI: Soft, nondistended, nontender to palpation, no rebound, no guarding, no palpable masses, no palpable liver edge.
 <BR>

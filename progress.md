@@ -8,7 +8,7 @@ No significant overnight events.
 
 **REVIEW OF SYSTEMS:**
 
-Ten system ROS obtained negative unless otherwise noted above in HPI.
+Ten system ROS obtained negative unless otherwise noted above.
 
 <BR>
 <BR>

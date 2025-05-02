@@ -51,6 +51,12 @@ Patient is a
 
 **Diet:**  
 **DVT prophylaxis:**  
-**Code status:**  
+**Code status:**  per patient request
+
+<BR>
+<BR>
+<BR>
+<BR>
+
 
 

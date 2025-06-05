@@ -39,10 +39,12 @@ Ten system ROS obtained negative unless otherwise noted above.
 <BR>
 **HOME MEDICATIONS:**
 <BR>
+<BR>
 See below
 <BR>
 <BR>
 **ALLERGIES:** 
+<BR>
 <BR>
 See below
 <BR>

@@ -96,3 +96,13 @@ Patient is a
 **Diet:**  
 **DVT prophylaxis:**  
 **Code status:**  
+
+<BR>
+<BR>
+**Expected length to stay:** anticipate at least
+<BR>
+<BR>
+<BR>
+<BR>
+.
+<BR>

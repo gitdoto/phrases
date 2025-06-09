@@ -112,6 +112,7 @@ Patient is a
 From a Medicine perspective, patient appears medically stable. No indications to delay starting in-patient behavioral health treatment.
 <BR>
 <BR>
+Thank you for the consultation request. Please feel free to contact Medicine service if you have any questions of concerns.
 <BR>
 <BR>
 .
